@@ -1,2 +1,2 @@
 # go_homework
-go
+this is a go homework
